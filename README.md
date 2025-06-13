@@ -187,7 +187,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 ## STM 32 CUBE PROGRAM :
 
 ## Main.c
-```c
+```
+//To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
 /* USER CODE BEGIN Header */
 /**
   ******************************************************************************
